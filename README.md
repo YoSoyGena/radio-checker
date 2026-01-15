@@ -1,2 +1,2 @@
 # radio-checker
-Una aplicación para automáticamente revisar el estado de las URLs de mi gist de radios, y corregirlas.
+Una aplicación para revisar el estado de las URLs de mi gist de radios, y corregirlas automáticamente.
